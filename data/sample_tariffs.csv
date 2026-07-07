@@ -1,0 +1,9 @@
+hs_code,description,category,origin_country,destination_country,duty_rate,vat_rate,excise_rate,effective_date,source
+8703.23,Motor vehicles with engine 1500-3000cc,Vehicles,JP,UG,25.0,18.0,0.0,2026-01-01,EAC Common External Tariff
+8517.12,Mobile phones,Electronics,CN,UG,0.0,18.0,0.0,2026-01-01,EAC Common External Tariff
+1006.30,Semi-milled or wholly milled rice,Agriculture,PK,UG,75.0,18.0,0.0,2026-01-01,EAC Common External Tariff
+2710.19,Refined petroleum oils,Fuel,AE,UG,0.0,18.0,15.0,2026-01-01,EAC Common External Tariff
+6203.42,Men's trousers of cotton,Textiles,CN,UG,25.0,18.0,0.0,2026-01-01,EAC Common External Tariff
+8471.30,Portable automatic data processing machines,Electronics,CN,KE,0.0,16.0,0.0,2026-01-01,EAC Common External Tariff
+3004.90,Medicaments for retail sale,Pharmaceuticals,IN,UG,0.0,0.0,0.0,2026-01-01,EAC Common External Tariff
+0901.21,Roasted coffee,Agriculture,UG,KE,0.0,16.0,0.0,2026-01-01,EAC Common External Tariff
